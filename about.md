@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-A blog that cryptocurrency , trading , Monero and other topics.
+A blog that covers cryptocurrency , trading , programming , Monero and other topics.
 
 ### More Information
 
