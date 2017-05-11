@@ -18,7 +18,7 @@ avatar: http://files.coinmarketcap.com.s3-website-us-east-1.amazonaws.com/static
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: http://scr.im/3nji
   facebook:
   flickr:
   github: furball514
