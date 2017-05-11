@@ -82,6 +82,7 @@ In the US, the main Monero exchanges are: [Poloniex](http://poloniex.com) and [B
 * [My Blog](https://getmonero.github.io)
 
 * [Unofficial Monero Chrome Extensions](https://monerocoin.github.io)
+
 ---
 
 _Please note this post is not an endorsement of Monero. All opinions are my own._
