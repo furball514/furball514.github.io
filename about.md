@@ -8,7 +8,7 @@ A blog that covers cryptocurrency , trading , programming , Monero and other top
 
 ### More Information
 
-https://furball514.github.io/portfolio
+[(https://furball514.github.io/portfolio](https://furball514.github.io/portfolio)
 
 ### Contact me
 
